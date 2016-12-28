@@ -22,5 +22,7 @@ System.out.println("rebase를 위한 수정");
 System.out.println("branch2를 위한 수정");
 
 System.out.println("branch1 에서 branch2를 위한 수정");
+
+System.out.println("branch1 과 관계없는 수정");
 	}
 }

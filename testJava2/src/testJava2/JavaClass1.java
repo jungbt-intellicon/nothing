@@ -5,5 +5,6 @@ public class JavaClass1 {
 		System.out.println("새로시작하기 ");
 		System.out.println("branch1 변경");
 		System.out.println("branch1 다시 변경");
+		System.out.println("master 변경");
 	}
 }

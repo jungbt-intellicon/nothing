@@ -7,6 +7,8 @@ public class JavaClass1 {
 		
 		
 		System.out.println("master º¯°æ for rebase");
+		
+		System.out.println("rebase ÈÄ merge");
 
 	}
 }

@@ -15,5 +15,6 @@ public class JavaClass1 {
 System.out.println("branch2 commit");
 
 System.out.println("conflict 후 수정");
+System.out.println("branch2 다시 수정");
 	}
 }

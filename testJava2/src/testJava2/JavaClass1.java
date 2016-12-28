@@ -9,5 +9,7 @@ public class JavaClass1 {
 		System.out.println("modified for branch1");
 		
 		System.out.println("change for master");
+		
+		System.out.println("branch2 »ý¼º");
 	}
 }

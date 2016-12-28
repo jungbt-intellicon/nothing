@@ -18,5 +18,9 @@ System.out.println("conflict 후 수정");
 System.out.println("branch2 다시 수정");
 
 System.out.println("rebase를 위한 수정");
+
+System.out.println("branch2를 위한 수정");
+
+System.out.println("branch1 에서 branch2를 위한 수정");
 	}
 }

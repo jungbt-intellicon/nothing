@@ -9,6 +9,8 @@ public class JavaClass1 {
 		System.out.println("master 변경 for rebase");
 		
 		System.out.println("rebase 후 merge");
+		
+		System.out.println("branch2 머지후 branch1 머지");
 
 System.out.println("branch2 commit");
 

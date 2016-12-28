@@ -11,5 +11,9 @@ public class JavaClass1 {
 		System.out.println("change for master");
 		
 		System.out.println("branch2 생성");
+		
+		System.out.println("master 변경");
+		
+		System.out.println("master 변경2");
 	}
 }

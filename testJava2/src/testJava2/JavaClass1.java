@@ -14,5 +14,7 @@ public class JavaClass1 {
 		System.out.println("gitHub test");
 		
 		System.out.println("gitHub test2");
+		
+		System.out.println("fetch and commit");
 	}
 }

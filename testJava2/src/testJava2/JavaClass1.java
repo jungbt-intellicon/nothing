@@ -12,5 +12,7 @@ public class JavaClass1 {
 		System.out.println("sourcetree 설치 후 마스터 브랜치 변경");
 		
 		System.out.println("gitHub test");
+		
+		System.out.println("gitHub test2");
 	}
 }
